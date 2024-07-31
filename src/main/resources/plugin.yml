@@ -1,0 +1,8 @@
+name: Teste1
+version: '${project.version}'
+main: me.hukkui.teste1.Teste1
+api-version: '1.21'
+commands:
+  parrot:
+    description: Ande em um papagaio!
+    usage: /parrot
